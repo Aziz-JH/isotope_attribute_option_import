@@ -1,0 +1,15 @@
+# Ignore everything (useful to ignore the whole Contao installation)
+/*
+
+!.gitignore
+!README.md
+#!composer.json @todo add contao composer
+
+# ignoring rules
+!system/
+system/*
+!system/drivers/
+system/drivers/*
+!system/modules
+system/modules/*
+!system/modules/isotope_attribute_option_import*
